@@ -10,7 +10,7 @@ variables:
 
   # Completar posteriormente
   azureSubscription: 'MIA_Connection'
-  appName: 'MIA2026'
+  appName: 'storage-container-connector'
 
 steps:
 
